@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2447803d5cde9e48aa5f4c23c12c4e1, type: 3}
+  m_Name: Battleaxe
+  m_EditorClassIdentifier: 
+  id: 0012
+  quantityLimit: 1
+  itemName: Battleaxe
+  value: 16
+  icon: {fileID: 21300000, guid: 5ffc56c9054607f4495364c58f426e11, type: 3}
+  description: 'Weapon: This axe is not just for cutting wood. There are few weapons
+    that hit as hard as the Battleaxe.'
+  itemType: 4
+  secondaryWeapon: {fileID: 0}

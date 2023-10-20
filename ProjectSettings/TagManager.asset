@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Hittable
+  - Weapon
+  - Piston
+  - Sticky
+  - Ladon
+  - FxTemporaire
+  - Ice
+  - Chest
+  - Moveable
+  - Rotateable
+  - Diamond
+  - Talkable
+  - Kissable
+  - Door
+  - Swim
+  - Floor
+  - Destroyable
+  - LockedDoor
+  - Interactable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Spawned
+  - Sticky
+  - Boss
+  - Character
+  - Chest
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
